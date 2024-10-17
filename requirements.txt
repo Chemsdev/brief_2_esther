@@ -1,0 +1,10 @@
+# Packages principales
+mysql-connector-python==8.0.33
+SQLAlchemy==1.4.7
+python-dotenv==1.0.0
+psycopg2-binary==2.9.6
+
+
+# psycopg2-binary==2.9.4
+PyMySQL==1.0.3
+pandas==1.4.4
